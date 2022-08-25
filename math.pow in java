@@ -1,0 +1,13 @@
+package Timetests;
+import java.math.*;
+
+public class Square {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i = 2;
+		double square = Math.pow(i,4);
+		System.out.println(square);
+	}
+
+}
